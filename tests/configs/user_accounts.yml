@@ -1,0 +1,6 @@
+---
+aap_user_accounts:
+  - username: controller_user
+    is_superuser: false
+    password: aap_password
+...
